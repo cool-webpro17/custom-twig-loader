@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/zimmo-be/twig-loader.git"
   },
-  "author": "Mathieu Maes @ Zimmo.be",
+  "author": "Heng Sokom",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zimmo-be/twig-loader/issues"
